@@ -149,5 +149,3 @@
   ```
 
 ---
-
-> File này có thể được lưu với tên `docker_guide_arch.md` để sử dụng lâu dài.
